@@ -1,0 +1,43 @@
+.recipe {
+    padding: 25px;
+    padding-bottom: 35px;
+    border-bottom: 1.4px solid black;
+}
+.recipe:last-child {
+    border-bottom: none;
+    padding-bottom: 10px;
+}
+
+.recipe__header {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recipe__title {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+.recipe__row {
+    margin-top: 8px;
+}
+
+.recipe__label {
+    font-weight: 600;
+}
+
+.recipe__value {
+    font-weight: 300;
+}
+
+.recipe__value--indented {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.recipe__instructions {
+    white-space: pre-wrap;
+    /* preserves all the white spaces in the string */
+}

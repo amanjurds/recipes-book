@@ -1,0 +1,52 @@
+
+/* Navbar Styles */
+.recipes-book-title {
+    background-color: hsl(200, 100%, 50%);
+    padding: 11px;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+.recipes-book-title {
+    margin: 0;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+/* About Styles */
+.recipe-about {
+    top: 40px;
+}
+.about-title {
+    text-align: center;
+    font-size: 1.8rem;
+    color: hsl(0, 100%, 50%);
+}
+.about-p {
+    padding: 0 10px;
+}
+
+
+/* About Search Styles */
+.recipe-search-section {
+    text-align: center;
+    margin-top: 40px;
+}
+.recipe-search-title {
+    margin: 0;
+    font-size: 1.2rem;
+}
+.recipe-search-icon {
+    color: hsl(2000, 100%, 50%);
+}
+#recipe-search {
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: inherit;
+    padding: 5px 10px;
+    outline: none;
+    width: 60%;
+}

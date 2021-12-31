@@ -1,0 +1,61 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Plain Chicken",
+      "cookTime": "1:15",
+      "servings": "4",
+      "instructions": "1. Marinate chicken\n2. Put chicken in oven\n3. Eat chicken",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Chicken",
+          "amount": "2 Pounds"
+        },
+        {
+          "id": "2",
+          "name": "Salt",
+          "amount": "1 Tbs"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Plain Pork",
+      "cookTime": "0:45",
+      "servings": "2",
+      "instructions": "1. Put paprika on pork\n2. Put pork in oven\n3. Eat pork",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Pork",
+          "amount": "1 Pounds"
+        },
+        {
+          "id": "2",
+          "name": "Peprika",
+          "amount": "2 Tbs"
+        }
+      ]
+    },
+    {
+      "id": "f0c7033b-1f22-4f2d-9e13-408eb296b61e",
+      "name": "Ramen",
+      "cookTime": "0:15",
+      "servings": 6,
+      "instructions": "1. Boil Ramen\n2. Cook Ramen\n3. Eat Ramen",
+      "ingredients": [
+        {
+          "id": "daa80133-7b1b-4efb-8aa1-99673e1b2aef",
+          "name": "Vegies",
+          "amount": "2 Bowl"
+        },
+        {
+          "id": "d2542fe0-e66c-4f05-a364-18c0d8428d6e",
+          "name": "Water",
+          "amount": "1 Liter"
+        }
+      ]
+    }
+  ]
+}
